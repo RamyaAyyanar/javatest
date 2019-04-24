@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayClassMethods",
+            "request": "launch",
+            "mainClass": "com.kgisl.data.ArrayClassMethods",
+            "projectName": "data"
+        }
+    ]
+}
